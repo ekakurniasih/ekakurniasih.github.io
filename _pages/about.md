@@ -25,8 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi, I’m Eka Maya Kurniasih. I have a solid background in marine biodiversity and molecular ecology. I graduated in September 2024 from the University of the Ryukyus, where I studied in the Department of Chemistry, Biology, and Marine Science at the Graduate School of Engineering and Science. Previously, I earned a master’s degree in marine sciences from Diponegoro University (Semarang, Indonesia) in 2019, and a bachelor’s degree from IPB University (Bogor, Indonesia) in 2013. I’m especially interested in marine biodiversity and molecular techniques. I also gained valuable hands-on experience in molecular genetics during internships at the Smithsonian Institution in 2013 and in 2017.
