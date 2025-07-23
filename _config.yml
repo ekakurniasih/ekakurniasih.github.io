@@ -6,17 +6,19 @@ title: Eka Kurniasih # the website title (if blank, full name will be used inste
 first_name: Eka
 middle_name: M.
 last_name: Kurniasih
-email: ekamayakurniasih@gmail.com
-  You can even add a little note about which of these is the best way to reach you.
+email:
+  The best way to contact me is through email at ekamayakurniasih [at] gmail [dot] com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Marine Biodiversity, Molecular Ecology
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  
+keywords: Marine, Biodiversity, Research # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+#Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+#Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url: https://ekakurniasih.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
