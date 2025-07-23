@@ -302,7 +302,7 @@ What this means is, if there is no resume data defined in [\_config.yml](_config
 
 You can create a people page if you want to feature more than one person. Each person can have its own short bio, profile picture, and you can also set if every person will appear at the same or opposite sides.
 
-[![People Preview](readme_preview/people.png)](https://alshedivat.github.io/al-folio/people/)
+###[![People Preview](readme_preview/people.png)](https://alshedivat.github.io/al-folio/people/)
 
 ---
 
