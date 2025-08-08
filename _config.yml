@@ -6,6 +6,7 @@ title: Eka Kurniasih # the website title (if blank, full name will be used inste
 first_name: Eka
 middle_name: M.
 last_name: Kurniasih
+avatar: "assets/images/Prof_PIC_Eka.jpg"
 email:
   The best way to contact me is through email at ekamayakurniasih [at] gmail [dot] com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
